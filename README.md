@@ -19,6 +19,6 @@ model.tflite — TFLite version of the model (output of conversion)
 
 🧪 How to Run
 
-# Train the model in the notebook
-# Save and convert to TFLite format
-# Run inference using the TFLite interpreter
+- Train the model in the notebook
+- Save and convert to TFLite format
+- Run inference using the TFLite interpreter
